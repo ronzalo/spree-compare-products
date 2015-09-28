@@ -3,7 +3,7 @@
 
 require 'comparable_container'
 class CompareProductsExtension < Spree::Extension
-  version "1.0"
+  version "3.0"
   description "Provides product comparison with other products with the same taxon"
   url "http://github.com/calas/spree-compare-products"
 
